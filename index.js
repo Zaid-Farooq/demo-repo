@@ -1,3 +1,3 @@
-var a = 2;
-var b = a*2;
 
+var a=2;
+var b = 1;
