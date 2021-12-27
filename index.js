@@ -1,1 +1,2 @@
-new file
+var a=2;
+var b = 1;
